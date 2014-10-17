@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qvy:home|Door43 (qvy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qvy|d43-qvy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qvy/archive/master.zip|d43-qvy.zip]]
+
+**Recent Changes**
+{{changes>ns = qvy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qvy|Ethnologue data]]
+
